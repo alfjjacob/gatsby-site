@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{HRxx:function(e,t,n){"use strict";n.r(t),n.d(t,"query",(function(){return u}));var a=n("q1tI"),l=n.n(a),r=n("Zttt"),u=(n("uNJ5"),"2862105077");t.default=function(e){e.data.allFile.edges;return l.a.createElement(r.a,null,l.a.createElement("div",{style:{color:"teal"}},l.a.createElement("h1",null,"Cheatsheets"),l.a.createElement("div",null,"To be replaced by a Github Repo content")))}}}]);
+//# sourceMappingURL=component---src-pages-cheatsheets-js-000306a092145e25db39.js.map
